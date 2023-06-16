@@ -30,9 +30,3 @@ $this->setFrameMode(true);
 	</div>
 <?endif;?>
 
-
-
-<?echo "<pre>";
-print_r($arResult);
-echo "</pre>";
-?>

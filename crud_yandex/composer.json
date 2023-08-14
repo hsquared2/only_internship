@@ -1,0 +1,11 @@
+{
+    "require": {
+        "arhitector/yandex": "dev-master",
+        "php-http/message-factory": "^1.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "php-http/discovery": true
+        }
+    }
+}

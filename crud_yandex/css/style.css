@@ -1,0 +1,34 @@
+body {
+   margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+   margin: 0;
+}
+
+* {
+   box-sizing: border-box;
+}
+
+.container {
+   width: 100%;
+   max-width: 1200px;
+   margin: 0 auto;
+}
+
+.upload_section {
+   margin-top: 10px;
+   margin-bottom: 30px;
+   padding: 20px 15px;
+   border: 1px solid gainsboro;
+   border-radius: 10px;
+}
+
+.upload_section-header {
+   margin-bottom: 20px;
+}
+
+.files_section-header {
+   margin-bottom: 20px;
+}
+
